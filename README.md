@@ -1,0 +1,9 @@
+
+bot_token
+
+5410451219:AAEd8JDaWZ8KCQowqO0TFNUW_37h9EFk7tM
+
+
+bot_id
+
+5172140339
